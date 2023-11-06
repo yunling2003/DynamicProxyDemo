@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProxyDemo", "DynamicProxyDemo.csproj", "{0F96E82A-51DD-431B-8628-167C7F97219D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F96E82A-51DD-431B-8628-167C7F97219D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F96E82A-51DD-431B-8628-167C7F97219D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F96E82A-51DD-431B-8628-167C7F97219D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F96E82A-51DD-431B-8628-167C7F97219D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF75BA0-25D4-4EB4-93DF-3C9A926333E4}
+	EndGlobalSection
+EndGlobal
